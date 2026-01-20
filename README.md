@@ -5,7 +5,7 @@ This repository focuses on transforming raw documents into **retrieval-optimized
 
 ---
 
-## 🚀 Features
+## Features
 
 - Multiple text splitting strategies:
   - Character-based splitting
@@ -17,7 +17,6 @@ This repository focuses on transforming raw documents into **retrieval-optimized
 - Framework-agnostic design
 - Easy integration with vector databases and LLM frameworks
 
----
 
 ## 📌 Why Text Splitting Matters in RAG
 
@@ -28,5 +27,3 @@ Effective text splitting is critical for RAG systems:
 - Optimizes token usage for LLMs
 
 This repo provides reusable, extensible components to experiment with and productionize chunking strategies.
-
-
