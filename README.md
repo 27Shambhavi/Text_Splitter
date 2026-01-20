@@ -29,7 +29,4 @@ Effective text splitting is critical for RAG systems:
 
 This repo provides reusable, extensible components to experiment with and productionize chunking strategies.
 
----
-
-## 🧱 Project Structure
 
